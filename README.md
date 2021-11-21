@@ -25,4 +25,4 @@ pip install .
 
 ## Contact
 
-For comments or questions, please open an [issue](https://github.com/rballester/ttgames/issues) write to rafael.ballester@ie.edu.
+For comments or questions, please open an [issue](https://github.com/rballester/ttgames/issues) or write to rafael.ballester@ie.edu. Pull requests are also welcome!
