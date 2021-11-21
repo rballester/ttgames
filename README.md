@@ -9,6 +9,20 @@ We propose to handle a game's utility function as a hypercube of size $2^{|N|}$ 
 
 This is a Python package that implements these algorithms, as well as the utility functions for several classic cooperative games.
 
+## Example Use
+
+The package's most important function is `ttgames.semivalues.semivalues(...)`. See [this Jupyter notebook](https://github.com/rballester/ttgames/blob/main/examples/airport.ipynb) for a tutorial using the *airport problem*.
+
+## Installation
+
+You may install *ttgames* from the source as follows:
+
+```
+git clone https://github.com/rballester/ttgames.git
+cd ttgames
+pip install .
+```
+
 ## Contact
 
 For comments or questions, please write to rafael.ballester@ie.edu.
