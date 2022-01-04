@@ -23,6 +23,22 @@ cd ttgames
 pip install .
 ```
 
+### Cite As
+
+This package is an implementation of the paper ["Tensor Approximation of Cooperative Games and Their Semivalues"](https://www.sciencedirect.com/science/article/abs/pii/S0888613X21001912) (R. Ballester-Ripoll 2021), which you should cite as:
+
+```
+@article{Ballester-Ripoll:21,
+    title = {Tensor Approximation of Cooperative Games and Their Semivalues},
+    journal = {International Journal of Approximate Reasoning},
+    volume = {142},
+    pages = {94-108},
+    year = {2022},
+    author = {Rafael Ballester-Ripoll},
+    keywords = {Cooperative game theory, Semivalues, Allocation rules, Computational game theory, Tensor approximation, Tensor train decomposition}
+}
+```
+
 ## Contact
 
 For comments or questions, please open an [issue](https://github.com/rballester/ttgames/issues) or write to rafael.ballester@ie.edu. Pull requests are also welcome!
